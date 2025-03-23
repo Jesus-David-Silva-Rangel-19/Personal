@@ -24,7 +24,9 @@
  * Copyright 2012-2013 Mattia Larentis
  * http://www.apache.org/licenses/LICENSE-2.0
  */
- @import url('https://fonts.googleapis.com/css2?family=Adamina&family=Alegreya+SC:ital,wght@0,400;0,500;0,700;0,800;0,900;1,400;1,500;1,700;1,800;1,900&family=Aleo:ital,wght@0,100..900;1,100..900&family=Alice&family=Amethysta&family=Antic+Slab&family=Arbutus+Slab&family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Average&family=Averia+Serif+Libre:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Baskervville:ital@0;1&family=Belgrano&family=Besley:ital,wght@0,400..900;1,400..900&family=BioRhyme:wght@200..800&family=Bitter:ital,wght@0,100..900;1,100..900&family=Brawler:wght@400;700&family=Bree+Serif&family=Brygada+1918:ital,wght@0,400..700;1,400..700&family=Buenard:wght@400;700&family=Caladea:ital,wght@0,400;0,700;1,400;1,700&family=Corben:wght@400;700&family=Cutive&family=Domine:wght@400..700&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Enriqueta:wght@400;500;600;700&family=Esteban&family=Faustina:ital,wght@0,300..800;1,300..800&family=Fjord+One&family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Gabriela&family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&family=Graduate&family=Hahmlet:wght@100..900&family=Hanuman:wght@100;300;400;700;900&family=Hepta+Slab:wght@1..900&family=Inika:wght@400;700&family=Judson:ital,wght@0,400;0,700;1,400&family=Kadwa:wght@400;700&family=Kameron:wght@400..700&family=Karma:wght@300;400;500;600;700&family=Kiwi+Maru&family=Labrada:ital,wght@0,100..900;1,100..900&family=Ledger&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Lusitana:wght@400;700&family=Lustria&family=Maitree:wght@200;300;400;500;600;700&family=Manuale:ital,wght@0,300..800;1,300..800&family=Mate+SC&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Neuton:ital,wght@0,200;0,300;0,400;0,700;0,800;1,400&family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&family=Noticia+Text:ital,wght@0,400;0,700;1,400;1,700&family=Ovo&family=PT+Serif+Caption:ital@0;1&family=Petrona:ital,wght@0,100..900;1,100..900&family=Poly:ital@0;1&family=Rhodium+Libre&family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&family=Roboto+Slab:wght@100..900&family=Rokkitt:ital,wght@0,100..900;1,100..900&family=Sanchez:ital@0;1&family=Slabo+13px&family=Slabo+27px&family=Vesper+Libre:wght@400;500;700;900&family=Zilla+Slab:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Adamina&family=Alegreya+SC:ital,wght@0,400;0,500;0,700;0,800;0,900;1,400;1,500;1,700;1,800;1,900&family=Aleo:ital,wght@0,100..900;1,100..900&family=Alice&family=Amethysta&family=Antic+Slab&family=Arbutus+Slab&family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Average&family=Averia+Serif+Libre:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Baskervville:ital@0;1&family=Belgrano&family=Besley:ital,wght@0,400..900;1,400..900&family=BioRhyme:wght@200..800&family=Bitter:ital,wght@0,100..900;1,100..900&family=Brawler:wght@400;700&family=Bree+Serif&family=Brygada+1918:ital,wght@0,400..700;1,400..700&family=Buenard:wght@400;700&family=Caladea:ital,wght@0,400;0,700;1,400;1,700&family=Corben:wght@400;700&family=Cutive&family=Domine:wght@400..700&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Enriqueta:wght@400;500;600;700&family=Esteban&family=Faustina:ital,wght@0,300..800;1,300..800&family=Fjord+One&family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Gabriela&family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&family=Graduate&family=Hahmlet:wght@100..900&family=Hanuman:wght@100;300;400;700;900&family=Hepta+Slab:wght@1..900&family=Inika:wght@400;700&family=Judson:ital,wght@0,400;0,700;1,400&family=Kadwa:wght@400;700&family=Kameron:wght@400..700&family=Karma:wght@300;400;500;600;700&family=Kiwi+Maru&family=Ledger&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Lusitana:wght@400;700&family=Lustria&family=Maitree:wght@200;300;400;500;600;700&family=Manuale:ital,wght@0,300..800;1,300..800&family=Mate+SC&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Neuton:ital,wght@0,200;0,300;0,400;0,700;0,800;1,400&family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&family=Noticia+Text:ital,wght@0,400;0,700;1,400;1,700&family=Ovo&family=PT+Serif+Caption:ital@0;1&family=Petrona:ital,wght@0,100..900;1,100..900&family=Poly:ital@0;1&family=Rhodium+Libre&family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&family=Roboto+Slab:wght@100..900&family=Rokkitt:ital,wght@0,100..900;1,100..900&family=Sanchez:ital@0;1&family=Slabo+13px&family=Slabo+27px&family=Vesper+Libre:wght@400;500;700;900&family=Zilla+Slab:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+ /* '&'family=Labrada:ital,wght@0,100..900;1,100..900& */
 
  @import url('https://fonts.googleapis.com/css2?family=Wellfleet&display=swap');
  @import url('https://fonts.googleapis.com/css2?family=Della+Respira&display=swap');
@@ -34,6 +36,62 @@
  @import url('https://fonts.googleapis.com/css2?family=Rhodium+Libre&display=swap');
  @import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
  @import url('https://fonts.googleapis.com/css2?family=BioRhyme:wght@200..800&family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Coustard:wght@400;900&family=Cutive&family=Hepta+Slab:wght@1..900&family=Orbitron:wght@400..900&display=swap');
+
+
+/* Iconos IconScout y Font Awesome*/	
+
+ #Tech .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+#Tech .title {
+  font-family: 'Alegreya SC', serif;
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+.tech-icons {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.tech-icon {
+  margin: 20px;
+  text-align: center;
+  width: 70px; /* Ajusta el tamaño según necesites */
+  height: 70px; /* Ajusta el tamaño según necesites */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  overflow: hidden; /* Asegura que los elementos no se desborden */
+
+  
+}
+
+.tech-icon svg {
+  width: 100%; /* Asegura que el SVG se ajuste al contenedor */
+  height: 100%; /* Mantiene la proporción del SVG */
+  overflow: hidden; /* Asegura que los elementos no se desborden */
+  object-fit: contain; /* Asegura que los SVG se ajusten dentro del contenedor sin ser cortados */
+}
+
+.tech-icon img {
+  width: 100%; /* Asegura que el SVG se ajuste al contenedor */
+  height: 100%; /* Mantiene la proporción del SVG */
+  overflow: hidden; /* Asegura que los elementos no se desborden */
+  object-fit: contain; /* Asegura que los SVG se ajusten dentro del contenedor sin ser cortados */
+
+}
+
+/* Iconos IconScout y Font Awesome*/	
+
+
 
 .bootstrap-switch {
   display: inline-block;
@@ -2025,13 +2083,20 @@ textarea.form-control {
   .progress-container .progress-badge {
     color: #888;
     font-size: 0.8571em;
-    text-transform: uppercase; }
+    font-variant: small-caps;
+    font-family: Oldenburg;
+    font-weight: bolder;
+    font-size: 17px;
+  }
   .progress-container .progress {
     height: 1px;
     border-radius: 0;
     box-shadow: none;
     background: rgba(222, 222, 222, 0.8);
-    margin-top: 14px; }
+    margin-top: 14px; 
+    font-family: Oldenburg;
+    font-weight: bolder;
+    }
     .progress-container .progress .progress-bar {
       box-shadow: none;
       background-color: #888; }
@@ -2281,7 +2346,8 @@ p {
   font-weight: 300; }
 
 .category {
-  text-transform: uppercase;
+  text-transform: small-caps;
+  font-size: 18.5px;
   font-weight: 700;
   color: #9A9A9A; }
 
